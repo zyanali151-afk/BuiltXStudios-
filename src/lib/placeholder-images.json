@@ -1,3 +1,58 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "Abstract dark background for hero section",
+      "imageUrl": "https://images.unsplash.com/photo-1709377058964-929af7f2d02f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkYXJrJTIwYWJzdHJhY3R8ZW58MHx8fHwxNzY0ODMwNjA2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dark abstract"
+    },
+    {
+      "id": "game-showcase",
+      "description": "Showcase image for general games section",
+      "imageUrl": "https://images.unsplash.com/photo-1548445929-4f60a497f851?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxmYW50YXN5JTIwbGFuZHNjYXBlfGVufDB8fHx8MTc2NDg4MjgwOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fantasy landscape"
+    },
+    {
+      "id": "roblox-showcase",
+      "description": "Showcase image for Roblox games section",
+      "imageUrl": "https://images.unsplash.com/photo-1759663175900-5f224551467c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxibG9ja3klMjB3b3JsZHxlbnwwfHx8fDE3NjQ5NDM3NDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "blocky world"
+    },
+    {
+      "id": "game-1",
+      "description": "First game",
+      "imageUrl": "https://images.unsplash.com/photo-1655330862874-f7997686a244?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzY2ktZmklMjBjaXR5fGVufDB8fHx8MTc2NDg1MjkxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sci-fi city"
+    },
+    {
+      "id": "game-2",
+      "description": "Second game",
+      "imageUrl": "https://images.unsplash.com/photo-1680247146441-dae3120a62a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y3liZXJwdW5rJTIwc3RyZWV0fGVufDB8fHx8MTc2NDg2NDc0MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cyberpunk street"
+    },
+    {
+      "id": "game-3",
+      "description": "Third game",
+      "imageUrl": "https://images.unsplash.com/photo-1717518215550-df082a0924e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YW5jaWVudCUyMHJ1aW5zfGVufDB8fHx8MTc2NDg5MjUxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ancient ruins"
+    },
+    {
+      "id": "roblox-1",
+      "description": "First Roblox game",
+      "imageUrl": "https://images.unsplash.com/photo-1689609523729-00a50c278c18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjb2xvcmZ1bCUyMHBsYXlncm91bmR8ZW58MHx8fHwxNzY0OTQzNzQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "colorful playground"
+    },
+    {
+      "id": "roblox-2",
+      "description": "Second Roblox game",
+      "imageUrl": "https://images.unsplash.com/photo-1634320714682-ae8b9c9cee60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwaXhlbCUyMGFydHxlbnwwfHx8fDE3NjQ4OTU2NDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pixel art"
+    },
+    {
+      "id": "merch-soon",
+      "description": "Coming soon background for merchandise",
+      "imageUrl": "https://images.unsplash.com/photo-1701964620931-d0b522f5431b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkYXJrJTIwZmFicmljfGVufDB8fHx8MTc2NDk0Mzc0NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dark fabric"
+    }
+  ]
 }
