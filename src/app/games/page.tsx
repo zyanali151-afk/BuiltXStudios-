@@ -9,15 +9,15 @@ import {
 const games = [
   {
     title: 'Cosmic Drift',
-    description: 'An endless runner through the vast, beautiful, and dangerous cosmos. Master the drift to survive.',
+    description: 'Coming soon',
   },
   {
     title: 'Neo-Kyoto: Afterfall',
-    description: 'A cyberpunk RPG set in a rain-drenched, neon-lit city. Uncover a corporate conspiracy.',
+    description: 'Coming soon',
   },
   {
     title: 'Chronicles of Aethel',
-    description: 'Explore ancient ruins and forgotten kingdoms in this open-world fantasy adventure.',
+    description: 'Coming soon',
   },
 ];
 

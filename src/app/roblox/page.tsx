@@ -8,12 +8,12 @@ import {
 
 const robloxGames = [
   {
-    title: 'Blocky Obby Parkour',
+    title: 'Shadow Accession',
     description: 'Leap, dash, and climb through hundreds of challenging stages in this vibrant obstacle course.',
   },
   {
     title: 'Pixel Tycoon Saga',
-    description: 'Build your empire from the ground up in this engaging and strategic tycoon game.',
+    description: 'Coming soon',
   },
 ];
 
@@ -29,7 +29,7 @@ export default function RobloxGamesPage() {
         </p>
       </div>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 justify-center">
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 justify-center">
         {robloxGames.map((game, index) => (
           <Card key={index} className="overflow-hidden group hover:shadow-primary/20 hover:shadow-lg transition-all duration-300 hover:-translate-y-2 animate-fade-in-up" style={{ animationDelay: `${index * 150}ms` }}>
             <CardHeader className="min-h-[120px]">
