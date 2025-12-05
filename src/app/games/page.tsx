@@ -8,15 +8,15 @@ import {
 
 const games = [
   {
-    title: 'Cosmic Drift',
+    title: 'Coming soon',
     description: 'Coming soon',
   },
   {
-    title: 'Neo-Kyoto: Afterfall',
+    title: 'Coming soon',
     description: 'Coming soon',
   },
   {
-    title: 'Chronicles of Aethel',
+    title: 'Coming soon',
     description: 'Coming soon',
   },
 ];

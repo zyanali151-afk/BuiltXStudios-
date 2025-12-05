@@ -12,7 +12,7 @@ const robloxGames = [
     description: 'Leap, dash, and climb through hundreds of challenging stages in this vibrant obstacle course.',
   },
   {
-    title: 'Pixel Tycoon Saga',
+    title: 'Coming soon',
     description: 'Coming soon',
   },
 ];
